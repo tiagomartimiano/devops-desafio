@@ -12,7 +12,7 @@ Este projeto consiste em duas aplicações:
 1. Clone este repositório:
 ```bash
 git clone <repo-url>
-cd devops-desafio-2025
+cd devops-desafio
 ```
 
 2. Execute os containers:
