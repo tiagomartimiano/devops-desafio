@@ -34,7 +34,7 @@ docker-compose up --build
 - Cada aplicação está containerizada com Docker.
 - A estrutura está preparada para futuras melhorias como Redis, Prometheus, CI/CD etc.
 
-## 6. Pontos de Melhoria
+## Pontos de Melhoria
 
 ### Técnicos:
 
@@ -50,7 +50,7 @@ docker-compose up --build
 
 ---
 
-## 7. Atualizações de Infraestrutura e Código
+## Atualizações de Infraestrutura e Código
 
 ### Fluxo de Atualização do Código:
 
