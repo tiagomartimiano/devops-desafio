@@ -5,7 +5,7 @@
 
 Este projeto consiste em duas aplicações:
 - **Node.js** (porta 3000) com cache de 10 segundos.
-- **Flask (Python)** (porta 5005) com cache de 60 segundos.
+- **Flask (Python)** (porta 5000) com cache de 60 segundos.
 
 ## Como executar
 
